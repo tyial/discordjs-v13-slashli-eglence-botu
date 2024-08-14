@@ -24,6 +24,8 @@ Eğer botu glitch üzerinden çalıştırıyorsanız `package.json` dosyasını 
 }
 ```
 
+---
+
 ## 🚀 **Nasıl Yüklenir/Ayarlanır:**
 
 1. **🛠️ Setup.bat'ı çalıştırın.**
